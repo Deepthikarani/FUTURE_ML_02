@@ -97,11 +97,7 @@ Support-Ticket-Classification/
 │   ├── category_model.pkl
 │   ├── priority_model.pkl
 │   └── tfidf_vectorizer.pkl
-│
-├── outputs/
-│   ├── confusion_matrix.png
-│   ├── category_results.txt
-│   └── priority_results.txt
+│    
 │
 ├── requirements.txt
 └── README.md
@@ -226,18 +222,6 @@ This project demonstrates understanding of:
 
 ---
 
-# 👨‍💻 Recruiter Highlights
-
-This project showcases:
-
-* Practical implementation of NLP concepts
-* Strong understanding of Machine Learning workflow
-* Ability to solve real business problems
-* Experience with text preprocessing and classification
-* Clean project organization and documentation
-* Industry-relevant AI application development
-
----
 
 # 📜 Conclusion
 
